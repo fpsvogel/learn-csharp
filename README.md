@@ -1,5 +1,10 @@
 # Learn C#
 
+## IDE
+
+- [C# Dev Kit VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+- [Rider](https://www.jetbrains.com/rider/download) if VS Code turns out to be annoyingly limited
+
 ## C#
 
 - [📕C# Player's Guide](https://csharpplayersguide.com/) (6th edition coming Nov. 2025)

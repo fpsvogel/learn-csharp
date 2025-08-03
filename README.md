@@ -7,12 +7,17 @@
 
 ## C#
 
+TODO (maybe): look through the recommendations in these lists (skip the first two sections to see the actual recs):
+
+- [C# and .NET](https://kerrick.blog/articles/2025/25-books-csharp-dotnet-front-matter/)
+- [ASP.NET Core and Blazor](https://kerrick.blog/articles/2025/24-books-asp-net-blazor-front-matter/)
+
 - [📕C# Player's Guide](https://csharpplayersguide.com/) (6th edition coming Nov. 2025)
 - [📕Pro C#](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484278682) Ch. 1–18
 - [📕C# in a Nutshell](https://www.albahari.com/nutshell) for reference
 - [🌐A discussion of what constitute C# fundamentals](https://www.reddit.com/r/csharp/comments/1kcwlha/am_i_missing_the_fundamentals)
 
-## ASP.NET
+## ASP.NET Core
 
 - [🌐Official ASP.NET Core MVC tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?tabs=visual-studio-code)
 - [🌐Build web apps with ASP.NET Core for beginners](https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/)

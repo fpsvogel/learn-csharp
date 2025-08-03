@@ -1,16 +1,16 @@
 # Learn C#
 
+TODO (maybe): look through the recommendations in these lists (skip the first two sections to see the actual recs):
+
+- [C# and .NET](https://kerrick.blog/articles/2025/25-books-csharp-dotnet-front-matter/)
+- [ASP.NET Core and Blazor](https://kerrick.blog/articles/2025/24-books-asp-net-blazor-front-matter/)
+
 ## IDE
 
 - [C# Dev Kit VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 - [Rider](https://www.jetbrains.com/rider/download) if VS Code turns out to be annoyingly limited
 
 ## C#
-
-TODO (maybe): look through the recommendations in these lists (skip the first two sections to see the actual recs):
-
-- [C# and .NET](https://kerrick.blog/articles/2025/25-books-csharp-dotnet-front-matter/)
-- [ASP.NET Core and Blazor](https://kerrick.blog/articles/2025/24-books-asp-net-blazor-front-matter/)
 
 - [📕C# Player's Guide](https://csharpplayersguide.com/) (6th edition coming Nov. 2025)
 - [📕Pro C#](https://www.amazon.com/Pro-NET-Foundational-Principles-Programming/dp/1484278682) Ch. 1–18

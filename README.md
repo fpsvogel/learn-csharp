@@ -1,9 +1,10 @@
 # Learn C#
 
-TODO (maybe): look through the recommendations in these lists (skip the first two sections to see the actual recs):
+TODO (maybe): look through these other lists. In the first two, skip the first two sections to see the actual recs.
 
 - [C# and .NET](https://kerrick.blog/articles/2025/25-books-csharp-dotnet-front-matter/)
 - [ASP.NET Core and Blazor](https://kerrick.blog/articles/2025/24-books-asp-net-blazor-front-matter/)
+- https://github.com/andrew/ultimate-awesome#c-lists-1
 
 ## IDE
 

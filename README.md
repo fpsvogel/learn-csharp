@@ -32,6 +32,7 @@ TODO (maybe): look through these other lists. In the first two, skip the first t
 ## Misc.
 
 - [📕Dependency Injection Principles, Practices, and Patterns](https://www.manning.com/books/dependency-injection-principles-practices-patterns)
+- [🌐ASP.NET Core Reimagined with htmx](https://aspnet-htmx.com)
 
 ## Projects
 
